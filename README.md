@@ -1,2 +1,2 @@
 # Wargame-Realism-Mod
-A realism based Eugene System's Wargame mod
+A realism-powered mod for Eugene System's Wargame
